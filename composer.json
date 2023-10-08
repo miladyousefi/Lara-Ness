@@ -19,6 +19,7 @@
             "MiladUU\\LaraNess\\": "src/"
         }
     },
+    "provides": {},
     "scripts": {
         "post-install-cmd": [
             "php artisan vendor:publish --provider=\"BeyondCode\\LaravelWebSockets\\WebSocketsServiceProvider\" --tag=\"migrations\"",
