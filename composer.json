@@ -1,5 +1,5 @@
 {
-    "name": "milad/lara-ness",
+    "name": "miladuu/lara-ness",
     "description": "This package provide necessary packages for start loaravel project",
     "require": {
         "php": "^8.1",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Milad\\LaraNess\\": "src/"
+            "MiladUU\\LaraNess\\": "src/"
         }
     },
     "scripts": {
